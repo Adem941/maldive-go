@@ -62,7 +62,7 @@ a {
     text-decoration: none;
 }
 #bienvenue {
-    background-image: url("images/maldive.jpg");
+    background-image: url("maldive.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
